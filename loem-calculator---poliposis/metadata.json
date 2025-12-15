@@ -1,0 +1,5 @@
+{
+  "name": "LOEM Calculator - Poliposis",
+  "description": "Herramienta de asistencia médica para calcular automáticamente el código de clasificación LOEM basado en informes quirúrgicos de pacientes con poliposis.",
+  "requestFramePermissions": []
+}
